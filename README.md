@@ -1,7 +1,7 @@
-[![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](www.abilash.me)
+
 <h1 align="center">Hi 👋, I'm Abilash</h1>
 <h3 align="center">Undergradute @University Of Peradeniya</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif"/>
+<img align="right" alt="Coding" width="400" src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravindranabilash&label=Profile%20views&color=0e75b6&style=flat" alt="ravindranabilash" /> </p>
