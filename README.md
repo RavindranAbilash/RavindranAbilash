@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abilash</h1>
-<h3 align="center">Intern Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravindranabilash&label=Profile%20views&color=0e75b6&style=flat" alt="ravindranabilash" /> </p>
 
@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/abilash15567496" target="blank"><img src="https://img.shields.io/twitter/follow/abilash15567496?logo=twitter&style=for-the-badge" alt="abilash15567496" /></a> </p>
 
-- 🔭 I’m currently working on [Corals Protector](https://github.com/cepdnaclk/e18-3yp-Corals-Protector)
-
-- 🌱 I’m currently learning **Machine Learning**
+- 🔭 I’m currently working on [Corals Protector]([https://github.com/cepdnaclk/e18-3yp-Corals-Protector](https://github.com/cepdnaclk/e18-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry))
 
 - 👯 I’m looking to collaborate on [cepdnaclk](https://github.com/cepdnaclk/people.ce.pdn.ac.lk)
 
@@ -19,9 +17,9 @@
 
 - 💬 Ask me about **MERN stack**
 
-- 📫 How to reach me **ravindranabilash8@gmail.com**
+- 📫 How to reach me **abilash.ravin@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15XHlZ_AgCTmiSCcoUiAbGo9nlVCxozHr/view?usp=sharing](https://drive.google.com/file/d/15XHlZ_AgCTmiSCcoUiAbGo9nlVCxozHr/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/15XHlZ_AgCTmiSCcoUiAbGo9nlVCxozHr/view?usp=sharing](https://drive.google.com/file/d/1umvsCOiIXSokonE6hdGneSOA2bUldyJw/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
