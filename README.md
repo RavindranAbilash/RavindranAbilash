@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/abilash15567496" target="blank"><img src="https://img.shields.io/twitter/follow/abilash15567496?logo=twitter&style=for-the-badge" alt="abilash15567496" /></a> </p>
 
-- 🔭 I’m currently working on [Corals Protector]([https://github.com/cepdnaclk/e18-3yp-Corals-Protector](https://github.com/cepdnaclk/e18-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry))
+- 🔭 I’m currently working on [VPS]([https://github.com/cepdnaclk/e18-3yp-Corals-Protector](https://github.com/cepdnaclk/e18-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry)
 
 - 👯 I’m looking to collaborate on [cepdnaclk](https://github.com/cepdnaclk/people.ce.pdn.ac.lk)
 
-- 👨‍💻 All of my projects are available at [https://ravindranabilash.github.io/](https://ravindranabilash.github.io/)
-
-- 📝 I regularly write articles on [https://medium.com/@abilashravindran08](https://medium.com/@abilashravindran08)
+- 👨‍💻 All of my projects are available at [https://people.ce.pdn.ac.lk/students/e18/013/](https://people.ce.pdn.ac.lk/students/e18/013/)
 
 - 💬 Ask me about **MERN stack**
 
